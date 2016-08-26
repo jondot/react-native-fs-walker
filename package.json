@@ -1,0 +1,26 @@
+{
+  "name": "react-native-fs-walker",
+  "version": "1.0.0",
+  "description": "A React Native file system walker and file tree debugging tool.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },  
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jondot/react-native-fs-walker.git"
+  },
+  "keywords": [
+    "react-component",
+    "react-native",
+    "ios",
+    "android",
+    "fs",
+    "filesystem"
+  ],
+  "author": "Dotan Nahum <jondotan@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.15.0"
+  }
+}
